@@ -28,7 +28,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/Drum-Kit.git
+    git clone https://github.com/abhishekgurjarin/Drum-Kit.git
     ```
 
 2. **Open the project directory**:
@@ -48,7 +48,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Drum Kit [here](https://abhishekboadgurjar.github.io/Drum-Kit/).
+You can check out the live demo of the Drum Kit [here](https://abhishekgurjarin.github.io/Drum-Kit/).
 ## Screenshots
 ![Screenshot 2024-08-14 232003](https://github.com/user-attachments/assets/b3c43b2b-442a-45c3-834b-6e87c96e07de)
 
@@ -64,5 +64,5 @@ This project was created to showcase JavaScript's potential for creating interac
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
 
